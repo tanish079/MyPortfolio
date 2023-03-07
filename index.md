@@ -67,7 +67,7 @@ These page showcase all the projects which I did in the past and the one's on wh
    
    ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
    
-   <iframe width="1487" height="691" src="/assets/img/Animation 3.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="1487" height="691" src="https://drive.google.com/file/d/1NTlR0DyswC5ptGWY4nWaPNiLnrhW6r1k/view?usp=share_link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       1. Dismantling of an IC Engine (Force Matador D301 E2) and measuring the dimensions of the components.
       2. Creating a CAD model of the components of the engine.
@@ -75,7 +75,7 @@ These page showcase all the projects which I did in the past and the one's on wh
       
    <center><img src="/assets/img/5.jpg"/></center>
    
-   <iframe width="1487" height="691" src="/assets/img/Animation 4.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="1487" height="691" src="https://drive.google.com/file/d/1BS1yY5e5QY4I-LmrKKF3qXjHbAR6ixcr/view?usp=share_link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
    [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)   
    
