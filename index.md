@@ -46,8 +46,8 @@ These page showcase all the projects which I did in the past and the one's on wh
    performed some static load tests to analyze the impact of various 
    loads acting on a frame in different conditions.
    
-   [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)
-   [Click here to Video Explanation of the Project](https://drive.google.com/file/d/1BXNo7PmrdX-nz60Z0v9fVYxkFNM4xl0c/view?usp=share_link)
+   [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)<br>
+   [Click here to Video Explanation of the Project](https://drive.google.com/file/d/1BXNo7PmrdX-nz60Z0v9fVYxkFNM4xl0c/view?usp=share_link)<br>
    
    This was a group project and the other members of this project are:<br>
         1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)<br>
@@ -62,8 +62,9 @@ These page showcase all the projects which I did in the past and the one's on wh
    3. Doing Assembly of the Engine and creating a working
       Simulation of an IC Engine.
       
-   [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)   
-   [Click here to Video Explanation of the Project](https://drive.google.com/file/d/1KflkT0yuKCTIzYg4IDyk82bB0xtsmMj7/view?usp=share_link)
+   [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)<br>
+   [Click here to Video Explanation of the Project](https://drive.google.com/file/d/1KflkT0yuKCTIzYg4IDyk82bB0xtsmMj7/view?usp=share_link)<br>
+   
    This project was done in a partnership with my batchmate [Atharva Gupte](https://www.linkedin.com/in/atharvagupte/).
    
    
