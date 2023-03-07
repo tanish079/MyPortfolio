@@ -28,9 +28,9 @@ These page showcase all the projects which I did in the past and the one's on wh
         
    [Click here to see the Project Report.](https://drive.google.com/file/d/1YoLbwcgLvRLI675zolwOx_9Ke5PwwQQ_/view)   
    
-   This was a group project and the other members of this project are:
-        1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)
-        2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)
+   This was a group project and the other members of this project are:\n
+        1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)\n
+        2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)\n
         3. [ADINATH BHOR](https://www.linkedin.com/in/adinath-bhor-025461197/)
         
    ### Design, Modelling and Analysis of a Bicycle Frame - Mar 2021 - May 2021
@@ -40,9 +40,9 @@ These page showcase all the projects which I did in the past and the one's on wh
         
    [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)   
    
-   This was a group project and the other members of this project are:
-        1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)
-        2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)
+   This was a group project and the other members of this project are:\n
+        1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)\n
+        2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)\n
         3. [ADINATH BHOR](https://www.linkedin.com/in/adinath-bhor-025461197/)
    
    ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
