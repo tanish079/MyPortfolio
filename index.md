@@ -8,6 +8,7 @@ I am an Automobile Engineer, I did my graduation from [Pillai College of Enginee
 In November 2022, I started working at TuringMind.Ai as a Data Scientist Trainee. Currently, I am also doing my Master's from the [University of Arizona](https://www.arizona.edu/) 
 in the feild of Data Science. The reason for doing my MS in Data Science after being graduated as an Automobile Engineer is the High Demand and growth of
 Data Science in the feild of Automobile and I also want to be a part of this growth.
+[Link to my LinkedIn Profile](https://www.linkedin.com/in/tanishsk/).
 
 These page showcase all the projects which I did in the past and the one's on which currently I am working.
 
@@ -31,7 +32,7 @@ These page showcase all the projects which I did in the past and the one's on wh
    This was a group project and the other members of this project are:<br>
         1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)<br>
         2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)<br>
-        3. [ADINATH BHOR](https://www.linkedin.com/in/adinath-bhor-025461197/)
+        3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
         
    ### Design, Modelling and Analysis of a Bicycle Frame - Mar 2021 - May 2021
    
@@ -43,7 +44,7 @@ These page showcase all the projects which I did in the past and the one's on wh
    This was a group project and the other members of this project are:<br>
         1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)<br>
         2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)<br>
-        3. [ADINATH BHOR](https://www.linkedin.com/in/adinath-bhor-025461197/)
+        3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
    
    ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
       
@@ -53,12 +54,13 @@ These page showcase all the projects which I did in the past and the one's on wh
       
    [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)   
    
+   This project was done in a partnership with my batchmate [Atharva Gupte](https://www.linkedin.com/in/atharvagupte/).
    
-[Link to my LinkedIn Profile](https://www.linkedin.com/in/tanishsk/).
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
 ```
 
 ```
-The final element.
-```
+
+
+Thank you!
+
