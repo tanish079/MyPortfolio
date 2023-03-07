@@ -20,8 +20,8 @@ These page showcase all the projects which I did in the past and the one's on wh
 ### Suspension Tunning of Vehicle for Different Conditions - Jul 2021 - Mar 2022
    
    Suspension Tunning of Vehicle for Different Conditions
-   was my final year project. 
-        Highlights of this project are:
+   was my final year project.<br>
+        Highlights of this project are:<br>
         1. Setting tuning parameters for the suspension
            system of a vehicle so the vehicle can perform 
            well in different road conditions.<br>
