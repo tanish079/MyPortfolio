@@ -79,6 +79,5 @@ These page showcase all the projects which I did in the past and the one's on wh
    
    This project was done in a partnership with my batchmate [Atharva Gupte](https://www.linkedin.com/in/atharvagupte/).
    
-
 Thank you!
 
