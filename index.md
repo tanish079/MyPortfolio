@@ -24,11 +24,11 @@ These page showcase all the projects which I did in the past and the one's on wh
         Highlights of this project are:
         1. Setting tuning parameters for the suspension
            system of a vehicle so the vehicle can perform 
-           well in different road conditions.
+           well in different road conditions.<br>
         2. Developing quarter car model for Passive & 
-           Semi-Active Suspension in MATLAB Simulink.
+           Semi-Active Suspension in MATLAB Simulink.<br>
         3. Applying the tuning parameters to the suspension
-           system and testing the model in different conditions.
+           system and testing the model in different conditions.<br>
         4. Comparing the results to see the performance of
            the Passive & Semi-Active Suspension system 
            in different road conditions.
@@ -54,11 +54,11 @@ These page showcase all the projects which I did in the past and the one's on wh
         2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)<br>
         3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
    
-### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
+### Internship Based Project - CAD Modelling of an IC Engine - Dec 2021 - Jan 2022
        
    1. Dismantling of an IC Engine (Force Matador D301 E2) 
-      and measuring the dimensions of the components.
-   2. Creating a CAD model of the components of the engine.
+      and measuring the dimensions of the components.<br>
+   2. Creating a CAD model of the components of the engine.<br>
    3. Doing Assembly of the Engine and creating a working
       Simulation of an IC Engine.
       
