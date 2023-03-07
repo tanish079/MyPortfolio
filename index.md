@@ -8,6 +8,8 @@ I am an Automobile Engineer, I did my graduation from [Pillai College of Enginee
 In November 2022, I started working at TuringMind.Ai as a Data Scientist Trainee. Currently, I am also doing my Master's from the [University of Arizona](https://www.arizona.edu/) 
 in the feild of Data Science. The reason for doing my MS in Data Science after being graduated as an Automobile Engineer is the High Demand and growth of
 Data Science in the feild of Automobile and I also want to be a part of this growth.
+
+
 [Link to my LinkedIn Profile](https://www.linkedin.com/in/tanishsk/).
 
 These page showcase all the projects which I did in the past and the one's on which currently I am working.
