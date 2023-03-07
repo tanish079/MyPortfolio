@@ -17,7 +17,7 @@ These page showcase all the projects which I did in the past and the one's on wh
     Soon I will update this section. 
     
 ## Completed Projects
-   ### Suspension Tunning of Vehicle for Different Conditions - Jul 2021 - Mar 2022
+### Suspension Tunning of Vehicle for Different Conditions - Jul 2021 - Mar 2022
    
       Suspension Tunning of Vehicle for Different Conditions
       was my final year project. 
@@ -46,7 +46,7 @@ These page showcase all the projects which I did in the past and the one's on wh
         2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)<br>
         3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
         
-   ### Design, Modelling and Analysis of a Bicycle Frame - Mar 2021 - May 2021
+### Design, Modelling and Analysis of a Bicycle Frame - Mar 2021 - May 2021
    
       As the title describes we design a bicycle frame and 
       performed some static load tests to analyze the impact of various 
@@ -65,7 +65,7 @@ These page showcase all the projects which I did in the past and the one's on wh
         2. [Ratikesh Satle](https://www.linkedin.com/in/ratikesh-satle-5317bb1b2/)<br>
         3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
    
-   ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
+### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
        
       1. Dismantling of an IC Engine (Force Matador D301 E2) 
          and measuring the dimensions of the components.
