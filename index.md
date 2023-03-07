@@ -29,13 +29,11 @@ These page showcase all the projects which I did in the past and the one's on wh
         3. Applying the tuning parameters to the suspension system and testing the model in different conditions.
         4. Comparing the results to see the performance of the Passive & Semi-Active Suspension system in different road conditions.
    
-   <center><img src="/assets/img/Screenshot 2023-03-07 104917.png"/></center>
-   
+   <center><img src="/assets/img/Screenshot 2023-03-07 104917.png"/></center><br>
    <center>Block Diagram</center>
+   <br>
    
-   
-   <center><img src="/assets/img/Screenshot 2023-03-07 105024.png"/></center>
-   
+   <center><img src="/assets/img/Screenshot 2023-03-07 105024.png"/></center><br>
    <center>Simulink Model for Quarter car Semi-Active Suspension System</center>
    
    [Click here to see the Project Report.](https://drive.google.com/file/d/1YoLbwcgLvRLI675zolwOx_9Ke5PwwQQ_/view)   
@@ -50,13 +48,11 @@ These page showcase all the projects which I did in the past and the one's on wh
       As the title describes we design a bicycle frame and performed some static load tests to analyze the impact of various 
       loads acting on a frame in different conditions.
    
-   <center><img src="/assets/img/Screenshot 2023-03-07 104447.png"/></center>
-   
+   <center><img src="/assets/img/Screenshot 2023-03-07 104447.png"/></center><br>
    <center>Design Model</center>
+   <br>
    
-   
-   <center><img src="/assets/img/Screenshot 2023-03-07 104750.png"/></center>
-   
+   <center><img src="/assets/img/Screenshot 2023-03-07 104750.png"/></center><br>
    <center>Static analysis of road bump (Bending Moment Plot)</center>
    
    
