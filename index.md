@@ -13,15 +13,15 @@ These page showcase all the projects which I did in the past and the one's on wh
 
 ## Active Projects 
     
-    Currently I am not working on any project,
-    Soon I will update this section. 
+   Currently I am not working on any project,
+   Soon I will update this section. 
     
 ## Completed Projects
 ### Suspension Tunning of Vehicle for Different Conditions - Jul 2021 - Mar 2022
    
-      Suspension Tunning of Vehicle for Different Conditions
-      was my final year project. 
-      Highlights of this project are:
+   Suspension Tunning of Vehicle for Different Conditions
+   was my final year project. 
+        Highlights of this project are:
         1. Setting tuning parameters for the suspension
            system of a vehicle so the vehicle can perform 
            well in different road conditions.
@@ -34,10 +34,10 @@ These page showcase all the projects which I did in the past and the one's on wh
            in different road conditions.
    
    <center>Block Diagram</center>
-   <center><img src="/assets/img/Screenshot 2023-03-07 104917.png"/></center>
+   <center><img src="https://drive.google.com/file/d/1032C7fdr4U2ANCL27bGan8dPdrk1I59J/view?usp=share_link"/></center>
    <br>
    <center>Simulink Model for Quarter car Semi-Active Suspension System</center>
-   <center><img src="/assets/img/Screenshot 2023-03-07 105024.png"/></center><br>
+   <center><img src="https://drive.google.com/file/d/1HQJiP455dtV-aN-KgWs5qVPYqWAuIl_D/view?usp=share_link"/></center><br>
    
    [Click here to see the Project Report.](https://drive.google.com/file/d/1YoLbwcgLvRLI675zolwOx_9Ke5PwwQQ_/view)   
    
@@ -48,17 +48,18 @@ These page showcase all the projects which I did in the past and the one's on wh
         
 ### Design, Modelling and Analysis of a Bicycle Frame - Mar 2021 - May 2021
    
-      As the title describes we design a bicycle frame and 
-      performed some static load tests to analyze the impact of various 
-      loads acting on a frame in different conditions.
+   As the title describes we design a bicycle frame and 
+   performed some static load tests to analyze the impact of various 
+   loads acting on a frame in different conditions.
    
    <center>Design Model</center>
-   <center><img src="/assets/img/Screenshot 2023-03-07 104447.png"/></center>
+   <center><img src="https://drive.google.com/file/d/1PINK5Hdjb3CMeYEp87V_WhyU2ofgvRJm/view?usp=share_link"/></center>
    <br>
    <center>Static analysis of road bump (Bending Moment Plot)</center>
-   <center><img src="/assets/img/Screenshot 2023-03-07 104750.png"/></center><br>
+   <center><img src="https://drive.google.com/file/d/130N51lqJANLgGooZjYLnPi2iYMzHlvgK/view?usp=share_link"/></center><br>
    
-   [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)   
+   [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)
+   [Click here to Video Explanation of the Project](https://drive.google.com/file/d/1BXNo7PmrdX-nz60Z0v9fVYxkFNM4xl0c/view?usp=share_link)
    
    This was a group project and the other members of this project are:<br>
         1. [Aniket Nikam](https://www.linkedin.com/in/aniket-nikam-9059371aa/)<br>
@@ -67,16 +68,16 @@ These page showcase all the projects which I did in the past and the one's on wh
    
 ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
        
-      1. Dismantling of an IC Engine (Force Matador D301 E2) 
-         and measuring the dimensions of the components.
-      2. Creating a CAD model of the components of the engine.
-      3. Doing Assembly of the Engine and creating a working
-         Simulation of an IC Engine.
+   1. Dismantling of an IC Engine (Force Matador D301 E2) 
+      and measuring the dimensions of the components.
+   2. Creating a CAD model of the components of the engine.
+   3. Doing Assembly of the Engine and creating a working
+      Simulation of an IC Engine.
       
-   <center><img src="/assets/img/5.jpg"/></center>
+   <center><img src="https://drive.google.com/file/d/1XsV6zIl50w5jygB2dYnnOjhAe1UZ2oRo/view?usp=share_link"/></center>
       
    [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)   
-   
+   [Click here to Video Explanation of the Project](https://drive.google.com/file/d/1KflkT0yuKCTIzYg4IDyk82bB0xtsmMj7/view?usp=share_link)
    This project was done in a partnership with my batchmate [Atharva Gupte](https://www.linkedin.com/in/atharvagupte/).
    
    
