@@ -66,9 +66,9 @@ These page showcase all the projects which I did in the past and the one's on wh
         3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
    
    ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
-   <video>
+  
    <iframe width="1487" height="691" src="https://drive.google.com/file/d/1NTlR0DyswC5ptGWY4nWaPNiLnrhW6r1k/view?usp=share_link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   <\video> 
+       
       1. Dismantling of an IC Engine (Force Matador D301 E2) and measuring the dimensions of the components.
       2. Creating a CAD model of the components of the engine.
       3. Doing Assembly of the Engine and creating a working Simulation of an IC Engine.
