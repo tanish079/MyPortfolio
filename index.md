@@ -28,7 +28,11 @@ These page showcase all the projects which I did in the past and the one's on wh
         2. Developing quarter car model for Passive & Semi-Active Suspension in MATLAB Simulink.
         3. Applying the tuning parameters to the suspension system and testing the model in different conditions.
         4. Comparing the results to see the performance of the Passive & Semi-Active Suspension system in different road conditions.
-        
+   
+   <center><img src="/assets/img/Screenshot 2023-03-07 104917.png"/></center>
+   
+   <center><img src="/assets/img/Screenshot 2023-03-07 105024.png"/></center>
+   
    [Click here to see the Project Report.](https://drive.google.com/file/d/1YoLbwcgLvRLI675zolwOx_9Ke5PwwQQ_/view)   
    
    This was a group project and the other members of this project are:<br>
@@ -40,7 +44,11 @@ These page showcase all the projects which I did in the past and the one's on wh
    
       As the title describes we design a bicycle frame and performed some static load tests to analyze the impact of various 
       loads acting on a frame in different conditions.
-        
+   
+   <center><img src="/assets/img/Screenshot 2023-03-07 104447.png"/></center>
+   
+   <center><img src="/assets/img/Screenshot 2023-03-07 104750.png"/></center>
+   
    [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)   
    
    This was a group project and the other members of this project are:<br>
@@ -49,10 +57,16 @@ These page showcase all the projects which I did in the past and the one's on wh
         3. [Adinath Bhor](https://www.linkedin.com/in/adinath-bhor-025461197/)
    
    ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
+   
+   <center><video src="/assets/img/Animation 3.mp4"/></center>
       
       1. Dismantling of an IC Engine (Force Matador D301 E2) and measuring the dimensions of the components.
       2. Creating a CAD model of the components of the engine.
       3. Doing Assembly of the Engine and creating a working Simulation of an IC Engine.
+      
+   <center><img src="/assets/img/5.jpg"/></center>
+   
+   <center><video src="/assets/img/Animation 4.mp4"/></center>
       
    [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)   
    
