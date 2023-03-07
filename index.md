@@ -33,6 +33,7 @@ These page showcase all the projects which I did in the past and the one's on wh
    
    <center>Block Diagram</center>
    
+   
    <center><img src="/assets/img/Screenshot 2023-03-07 105024.png"/></center>
    
    <center>Simulink Model for Quarter car Semi-Active Suspension System</center>
@@ -52,6 +53,7 @@ These page showcase all the projects which I did in the past and the one's on wh
    <center><img src="/assets/img/Screenshot 2023-03-07 104447.png"/></center>
    
    <center>Design Model</center>
+   
    
    <center><img src="/assets/img/Screenshot 2023-03-07 104750.png"/></center>
    
