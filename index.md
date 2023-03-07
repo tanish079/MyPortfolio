@@ -31,7 +31,11 @@ These page showcase all the projects which I did in the past and the one's on wh
    
    <center><img src="/assets/img/Screenshot 2023-03-07 104917.png"/></center>
    
+   <center>Block Diagram</center>
+   
    <center><img src="/assets/img/Screenshot 2023-03-07 105024.png"/></center>
+   
+   <center>Simulink Model for Quarter car Semi-Active Suspension System</center>
    
    [Click here to see the Project Report.](https://drive.google.com/file/d/1YoLbwcgLvRLI675zolwOx_9Ke5PwwQQ_/view)   
    
@@ -47,7 +51,12 @@ These page showcase all the projects which I did in the past and the one's on wh
    
    <center><img src="/assets/img/Screenshot 2023-03-07 104447.png"/></center>
    
+   <center>Design Model</center>
+   
    <center><img src="/assets/img/Screenshot 2023-03-07 104750.png"/></center>
+   
+   <center>Static analysis of road bump (Bending Moment Plot)</center>
+   
    
    [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)   
    
@@ -58,7 +67,7 @@ These page showcase all the projects which I did in the past and the one's on wh
    
    ### Internship Based Project - CAD Modelling of An IC Engine - Dec 2021 - Jan 2022
    
-   <center><video src="/assets/img/Animation 3.mp4"/></center>
+   <iframe width="1487" height="691" src="/assets/img/Animation 3.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       1. Dismantling of an IC Engine (Force Matador D301 E2) and measuring the dimensions of the components.
       2. Creating a CAD model of the components of the engine.
@@ -66,7 +75,7 @@ These page showcase all the projects which I did in the past and the one's on wh
       
    <center><img src="/assets/img/5.jpg"/></center>
    
-   <center><video src="/assets/img/Animation 4.mp4"/></center>
+   <iframe width="1487" height="691" src="/assets/img/Animation 4.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
    [Click here to see the Project Report.](https://drive.google.com/file/d/1q1iFMfj8gXsHaxO4ZR2qslfBc8PJ2xBX/view?usp=share_link)   
    
