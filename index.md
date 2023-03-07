@@ -20,7 +20,8 @@ These page showcase all the projects which I did in the past and the one's on wh
    
       Suspension Tunning of Vehicle for Different Conditions was my final year project. 
       Highlights of this project are:
-        1. Setting tuning parameters for the suspension system of a vehicle so the vehicle can perform well in different road conditions.
+        1. Setting tuning parameters for the suspension system of a vehicle so the vehicle can perform well in different 
+        road conditions.
         2. Developing quarter car model for Passive & Semi-Active Suspension in MATLAB Simulink.
         3. Applying the tuning parameters to the suspension system and testing the model in different conditions.
         4. Comparing the results to see the performance of the Passive & Semi-Active Suspension system in different road conditions.
@@ -34,7 +35,8 @@ These page showcase all the projects which I did in the past and the one's on wh
         
    ## Design, Modelling and Analysis of a Bicycle Frame - Mar 2021 - May 2021
    
-      As the title describes we design a bicycle frame and performed some static load tests to analyze the impact of various loads acting on a frame in different conditions.
+      As the title describes we design a bicycle frame and performed some static load tests to analyze the impact of various 
+      loads acting on a frame in different conditions.
         
    [Click here to see the Project Report.](https://drive.google.com/file/d/1cd9jfS1lithlRPSBXRo2dvvg4jLIbWOD/view)   
    
