@@ -1,6 +1,10 @@
-title: Tanish Singh Kaler
+title: <p align="center"> Tanish Singh Kaler </p>
 logo: /assets/img/1623775198435.jfif
-description: MS-Data Science Student at University of Arizona<br>Data Science Trainee at TuringMinds.Ai
-show_downloads: False
-google_analytics:
+description: 
+  <p align="center">
+  <a href="https://drive.google.com/file/d/18IhNqNfaN0uYQ4JE8VircGTQryr75271/view?usp=share_link">Resume</a> |
+  <a href="https://www.linkedin.com/in/tanishsk/">LinkedIn</a> |
+  <br>
+  MS-Data Science Student at University of Arizona<br>Data Science Trainee at TuringMinds.Ai
+  
 theme: jekyll-theme-minimal
